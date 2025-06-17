@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Truong Giang but you can also call me TerryNguyen a</h1>
+<h1 align="center">Hi there 👋, I'm Truong Giang but you can also call me TerryNguyen</h1>
 
 <p align="center">
   <b>Aspiring Data Engineer / Data Analyst</b><br>
-  Eager to build a strong foundation in data pipelines, analytics, and scalable data systems.
+  I am currently an Information Technology student, eager to build a strong foundation in data pipelines, analytics, and scalable data systems.
 </p>
 
 
